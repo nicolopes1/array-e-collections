@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\bin\Debug\aula-5-array-e-collections.exe.config
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\bin\Debug\aula-5-array-e-collections.exe
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\bin\Debug\aula-5-array-e-collections.pdb
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\obj\Debug\aula-5-array-e-collections.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\obj\Debug\aula-5-array-e-collections.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\obj\Debug\aula-5-array-e-collections.exe
+C:\Users\nicol\source\repos\aula-5-array-e-collections\aula-5-array-e-collections\obj\Debug\aula-5-array-e-collections.pdb
